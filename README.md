@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prasanna Kumar</h1>
-<h3 align="center">🔐 Cyber Security Student | Ethical Hacking Enthusiast | Aspiring SOC Analyst</h3>
+<h1 align="center">Hi 👋, I'm Gowtham</h1>
+<h3 align="center">🔐 Cyber Security Student | Ethical Hacking Enthusiast | Aspiring SOC Analyst | kali linux</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=B.Tech+Cyber+Security+%7C+4th+Year;Learning+Ethical+Hacking+%26+Pentesting;Open+to+Cyber+Security+Internships;Kali+Linux+%7C+Python+%7C+Networking" alt="Typing SVG" />
@@ -13,8 +13,8 @@
 - 📅 Currently in **4th Year, 1st Semester**
 - 📍 **vijayawada, India**
 - 🔍 Actively looking for **Cyber Security Internships**
-- 🌱 Currently learning **Penetration Testing & Network Security**
-- ⚡ Fun fact: I think like a hacker to **defend like a pro!**
+- 🌱 Currently learning **Penetration Testing,Network Security,autopsy,ftk imager**
+- ⚡ fact: I think like a hacker to **defend like a pro!**
 
 ---
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar3204&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar3204&theme=chartreuse-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham&theme=chartreuse-dark&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -43,8 +43,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔐 Password Strength Checker | Checks password security level | Python |
-
+| 🔐 Password Strength Checker | Checks password security level | Python | 
+Feature:cyber security with ai link with block chain
 ---
 
 ## 📫 Connect With Me
@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumar3204&label=Profile+Views&color=00ff41&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Gowtham&label=Profile+Views&color=00ff41&style=flat" />
 </p>
